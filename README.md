@@ -21,6 +21,5 @@ R5 - O sistema deve manter o registro de ocorrências, realizado pelo gerente do
 R6 - Validação: Ao registrar uma ocorrência, é necessário validar a data da ocorrência para que não seja possível informar uma data futura; já com relação a data limite para solução da ocorrência, deve ser obrigatoriamente uma data 
 futura; além disso, o funcionário alocado deve necessariamente ser do departamento de informática.
 
-===================================================================================================================
 Banco de dados em MYSQL
 
